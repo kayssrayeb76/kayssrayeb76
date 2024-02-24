@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="github-user-contribution (2).svg" />
+  <img alt="snake eating my contributions" src="github-user-contribution (1).svg" />
+  
   
   <br/><br/><br/>
 </div>
